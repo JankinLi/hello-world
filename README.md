@@ -1,2 +1,9 @@
 # hello-world
-hello-world is my trial work
+
+Hi, Humans！
+hello-world is my trial work.
+
+My name is Jankin Li
+I'm beinger.
+
+
